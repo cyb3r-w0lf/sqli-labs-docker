@@ -43,7 +43,7 @@ SQLi-Labs is a platform dedicated to learning and practicing SQL Injection techn
     ```
 
 4. **Access the Labs**
-    - Open your browser and navigate to: [http://127.0.0.1:8080](http://127.0.0.1:8080)
+    - Open your browser and navigate to: [http://127.0.0.1:8080/sqli-labs](http://127.0.0.1:8080/sqli-labs)
 
 5. **Setup the Database**
     - Click on the `setup/resetDB` link to initialize the database, create the necessary tables, and populate the data.
